@@ -1,6 +1,6 @@
 
 
 
-#this is my ocal Repo
+# this is my Local Repo
 
 
